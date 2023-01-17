@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align = "center">Hello, welcome to my page!<br><br>
 
-<!--
-**Windophesharyri/Windophesharyri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages:<br><br>
+ <div align = "center">
+  <img src="https://img.shields.io/badge/Python-343434?style=for-the-badge&logo=Python&logoColor=yellow", align = "left">
+  <img src="https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=JavaScript&logoColor=yellow", align = "left">
+  <img src="https://img.shields.io/badge/PHP-343434?style=for-the-badge&logo=PHP&logoColor=yellow", align = "left"> <br><br>
+ </div>
+<h2>Programms:<br><br>
+ <div align = "center">
+  <img src="https://img.shields.io/badge/VS Code-343434?style=for-the-badge&logo=Visual Studio Code&logoColor=yellow", align = "left">
+  <img src="https://img.shields.io/badge/PHP Storm-343434?style=for-the-badge&logo=PhpStorm&logoColor=yellow", align = "left">
+  <img src="https://img.shields.io/badge/PyCharm-343434?style=for-the-badge&logo=PyCharm&logoColor=yellow", align = "left"> <br><br>
+ </div>
